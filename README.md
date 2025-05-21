@@ -1,5 +1,6 @@
 # d1-secret-rest
 Fetch results or execute queries against a D1 CRUD REST API
+(ExtraTypingForPUsh)
 
 ## Performance
 This REST API implementation offers significantly faster performance compared to the official D1 API:
